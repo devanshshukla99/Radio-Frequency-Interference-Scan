@@ -1,0 +1,677 @@
+Fri Sep  6 17:37:08 2019
+Project = EightVoyager
+Project Folder Already Exists Overwrite..? y:n n
+EightVoyager > NinthCloud
+Data Written to file
+
+Project = NinthCloud
+Start = 80.0 MHz 
+Stop = 300.0 MHz 
+Step =  2.0 MHz 
+Integration Time = 5.0**Currently Not Working**
+Total Time for Obs = 5
+Data Acquiring Method = 2
+
+Found 1 SDR Devices
+Current Time is 2019-09-06 17:38:01.076712
+Current Time is 2019-09-06 17:38:01.077000
+Starting Acquisation Timer
+rtl_power_fftw -f 80000000:82000000 -l -e 5 -t 5.0 -m ./NinthCloud/data/0 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:38:01.149276
+rtl_power_fftw -f 81000000.0:83000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/1 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:38:07.548863
+rtl_power_fftw -f 82000000.0:84000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/2 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:38:13.407782
+rtl_power_fftw -f 83000000.0:85000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/3 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:38:19.281151
+rtl_power_fftw -f 84000000.0:86000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/4 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:38:25.136479
+rtl_power_fftw -f 85000000.0:87000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/5 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:38:30.984932
+rtl_power_fftw -f 86000000.0:88000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/6 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:38:36.833318
+rtl_power_fftw -f 87000000.0:89000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/7 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:38:42.691080
+rtl_power_fftw -f 88000000.0:90000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/8 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:38:48.555024
+rtl_power_fftw -f 89000000.0:91000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/9 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:38:54.414872
+rtl_power_fftw -f 90000000.0:92000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/10 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:39:00.274297
+rtl_power_fftw -f 91000000.0:93000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/11 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:39:06.130322
+rtl_power_fftw -f 92000000.0:94000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/12 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:39:11.993425
+rtl_power_fftw -f 93000000.0:95000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/13 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:39:17.850593
+rtl_power_fftw -f 94000000.0:96000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/14 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:39:23.706065
+rtl_power_fftw -f 95000000.0:97000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/15 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:39:29.568355
+rtl_power_fftw -f 96000000.0:98000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/16 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:39:35.423672
+rtl_power_fftw -f 97000000.0:99000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/17 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:39:41.275798
+rtl_power_fftw -f 98000000.0:100000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/18 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:39:47.122514
+rtl_power_fftw -f 99000000.0:101000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/19 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:39:52.974907
+rtl_power_fftw -f 100000000.0:102000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/20 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:39:58.830697
+rtl_power_fftw -f 101000000.0:103000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/21 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:40:04.699457
+rtl_power_fftw -f 102000000.0:104000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/22 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:40:10.562476
+rtl_power_fftw -f 103000000.0:105000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/23 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:40:16.430483
+rtl_power_fftw -f 104000000.0:106000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/24 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:40:22.296777
+rtl_power_fftw -f 105000000.0:107000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/25 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:40:28.155558
+rtl_power_fftw -f 106000000.0:108000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/26 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:40:34.019245
+rtl_power_fftw -f 107000000.0:109000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/27 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:40:39.882596
+rtl_power_fftw -f 108000000.0:110000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/28 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:40:45.740824
+rtl_power_fftw -f 109000000.0:111000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/29 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:40:51.611462
+rtl_power_fftw -f 110000000.0:112000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/30 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:40:57.461937
+rtl_power_fftw -f 111000000.0:113000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/31 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:41:03.322330
+rtl_power_fftw -f 112000000.0:114000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/32 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:41:09.176827
+rtl_power_fftw -f 113000000.0:115000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/33 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:41:15.036946
+rtl_power_fftw -f 114000000.0:116000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/34 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:41:20.896560
+rtl_power_fftw -f 115000000.0:117000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/35 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:41:26.758821
+rtl_power_fftw -f 116000000.0:118000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/36 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:41:32.619327
+rtl_power_fftw -f 117000000.0:119000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/37 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:41:38.474493
+rtl_power_fftw -f 118000000.0:120000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/38 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:41:44.325925
+rtl_power_fftw -f 119000000.0:121000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/39 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:41:50.179597
+rtl_power_fftw -f 120000000.0:122000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/40 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:41:56.030437
+rtl_power_fftw -f 121000000.0:123000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/41 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:42:01.881613
+rtl_power_fftw -f 122000000.0:124000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/42 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:42:07.751514
+rtl_power_fftw -f 123000000.0:125000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/43 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:42:13.607473
+rtl_power_fftw -f 124000000.0:126000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/44 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:42:19.463151
+rtl_power_fftw -f 125000000.0:127000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/45 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:42:25.323795
+rtl_power_fftw -f 126000000.0:128000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/46 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:42:31.189512
+rtl_power_fftw -f 127000000.0:129000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/47 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:42:37.046204
+rtl_power_fftw -f 128000000.0:130000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/48 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:42:42.916580
+rtl_power_fftw -f 129000000.0:131000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/49 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:42:48.769336
+rtl_power_fftw -f 130000000.0:132000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/50 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:42:54.621843
+rtl_power_fftw -f 131000000.0:133000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/51 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:43:00.479665
+rtl_power_fftw -f 132000000.0:134000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/52 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:43:06.337785
+rtl_power_fftw -f 133000000.0:135000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/53 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:43:12.200447
+rtl_power_fftw -f 134000000.0:136000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/54 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:43:18.056875
+rtl_power_fftw -f 135000000.0:137000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/55 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:43:23.916316
+rtl_power_fftw -f 136000000.0:138000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/56 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:43:29.774027
+rtl_power_fftw -f 137000000.0:139000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/57 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:43:35.625324
+rtl_power_fftw -f 138000000.0:140000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/58 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:43:41.474145
+rtl_power_fftw -f 139000000.0:141000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/59 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:43:47.335560
+rtl_power_fftw -f 140000000.0:142000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/60 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:43:53.210765
+rtl_power_fftw -f 141000000.0:143000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/61 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:43:59.076641
+rtl_power_fftw -f 142000000.0:144000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/62 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:44:04.940576
+rtl_power_fftw -f 143000000.0:145000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/63 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:44:10.800469
+rtl_power_fftw -f 144000000.0:146000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/64 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:44:16.650930
+rtl_power_fftw -f 145000000.0:147000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/65 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:44:22.505770
+rtl_power_fftw -f 146000000.0:148000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/66 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:44:28.368593
+rtl_power_fftw -f 147000000.0:149000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/67 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:44:34.234976
+rtl_power_fftw -f 148000000.0:150000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/68 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:44:40.087083
+rtl_power_fftw -f 149000000.0:151000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/69 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:44:45.934828
+rtl_power_fftw -f 150000000.0:152000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/70 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:44:51.782756
+rtl_power_fftw -f 151000000.0:153000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/71 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:44:57.625581
+rtl_power_fftw -f 152000000.0:154000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/72 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:45:03.476169
+rtl_power_fftw -f 153000000.0:155000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/73 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:45:09.348124
+rtl_power_fftw -f 154000000.0:156000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/74 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:45:15.211614
+rtl_power_fftw -f 155000000.0:157000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/75 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:45:21.068409
+rtl_power_fftw -f 156000000.0:158000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/76 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:45:26.949702
+rtl_power_fftw -f 157000000.0:159000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/77 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:45:32.786974
+rtl_power_fftw -f 158000000.0:160000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/78 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:45:38.652653
+rtl_power_fftw -f 159000000.0:161000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/79 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:45:44.514591
+rtl_power_fftw -f 160000000.0:162000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/80 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:45:50.374824
+rtl_power_fftw -f 161000000.0:163000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/81 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:45:56.234692
+rtl_power_fftw -f 162000000.0:164000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/82 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:46:02.088056
+rtl_power_fftw -f 163000000.0:165000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/83 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:46:07.946364
+rtl_power_fftw -f 164000000.0:166000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/84 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:46:13.806798
+rtl_power_fftw -f 165000000.0:167000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/85 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:46:19.670525
+rtl_power_fftw -f 166000000.0:168000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/86 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:46:25.527433
+rtl_power_fftw -f 167000000.0:169000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/87 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:46:31.393849
+rtl_power_fftw -f 168000000.0:170000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/88 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:46:37.246536
+rtl_power_fftw -f 169000000.0:171000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/89 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:46:43.113976
+rtl_power_fftw -f 170000000.0:172000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/90 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:46:48.966140
+rtl_power_fftw -f 171000000.0:173000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/91 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:46:54.820844
+rtl_power_fftw -f 172000000.0:174000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/92 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:47:00.686905
+rtl_power_fftw -f 173000000.0:175000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/93 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:47:06.539344
+rtl_power_fftw -f 174000000.0:176000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/94 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:47:12.405770
+rtl_power_fftw -f 175000000.0:177000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/95 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:47:18.255638
+rtl_power_fftw -f 176000000.0:178000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/96 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:47:24.108151
+rtl_power_fftw -f 177000000.0:179000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/97 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:47:29.963881
+rtl_power_fftw -f 178000000.0:180000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/98 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:47:35.829419
+rtl_power_fftw -f 179000000.0:181000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/99 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:47:41.674334
+rtl_power_fftw -f 180000000.0:182000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/100 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:47:47.521135
+rtl_power_fftw -f 181000000.0:183000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/101 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:47:53.378154
+rtl_power_fftw -f 182000000.0:184000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/102 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:47:59.242175
+rtl_power_fftw -f 183000000.0:185000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/103 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:48:05.085495
+rtl_power_fftw -f 184000000.0:186000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/104 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:48:10.941572
+rtl_power_fftw -f 185000000.0:187000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/105 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:48:16.793228
+rtl_power_fftw -f 186000000.0:188000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/106 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:48:22.651610
+rtl_power_fftw -f 187000000.0:189000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/107 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:48:28.511765
+rtl_power_fftw -f 188000000.0:190000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/108 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:48:34.364224
+rtl_power_fftw -f 189000000.0:191000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/109 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:48:40.220576
+rtl_power_fftw -f 190000000.0:192000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/110 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:48:46.083064
+rtl_power_fftw -f 191000000.0:193000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/111 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:48:51.947738
+rtl_power_fftw -f 192000000.0:194000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/112 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:48:57.797798
+rtl_power_fftw -f 193000000.0:195000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/113 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:49:03.652321
+rtl_power_fftw -f 194000000.0:196000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/114 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:49:09.507082
+rtl_power_fftw -f 195000000.0:197000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/115 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:49:15.358172
+rtl_power_fftw -f 196000000.0:198000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/116 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:49:21.216600
+rtl_power_fftw -f 197000000.0:199000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/117 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:49:27.077167
+rtl_power_fftw -f 198000000.0:200000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/118 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:49:32.938343
+rtl_power_fftw -f 199000000.0:201000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/119 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:49:38.795257
+rtl_power_fftw -f 200000000.0:202000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/120 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:49:44.653754
+rtl_power_fftw -f 201000000.0:203000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/121 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:49:50.510737
+rtl_power_fftw -f 202000000.0:204000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/122 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:49:56.377637
+rtl_power_fftw -f 203000000.0:205000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/123 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:50:02.227606
+rtl_power_fftw -f 204000000.0:206000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/124 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:50:08.081638
+rtl_power_fftw -f 205000000.0:207000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/125 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:50:13.929974
+rtl_power_fftw -f 206000000.0:208000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/126 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:50:19.795771
+rtl_power_fftw -f 207000000.0:209000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/127 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:50:25.662514
+rtl_power_fftw -f 208000000.0:210000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/128 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:50:31.520882
+rtl_power_fftw -f 209000000.0:211000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/129 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:50:37.385148
+rtl_power_fftw -f 210000000.0:212000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/130 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:50:43.249108
+rtl_power_fftw -f 211000000.0:213000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/131 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:50:49.119153
+rtl_power_fftw -f 212000000.0:214000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/132 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:50:54.977881
+rtl_power_fftw -f 213000000.0:215000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/133 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:51:00.831507
+rtl_power_fftw -f 214000000.0:216000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/134 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:51:06.683085
+rtl_power_fftw -f 215000000.0:217000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/135 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:51:12.542695
+rtl_power_fftw -f 216000000.0:218000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/136 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:51:18.399753
+rtl_power_fftw -f 217000000.0:219000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/137 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:51:24.250416
+rtl_power_fftw -f 218000000.0:220000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/138 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:51:30.113207
+rtl_power_fftw -f 219000000.0:221000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/139 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:51:35.970792
+rtl_power_fftw -f 220000000.0:222000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/140 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:51:41.836384
+rtl_power_fftw -f 221000000.0:223000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/141 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:51:47.692650
+rtl_power_fftw -f 222000000.0:224000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/142 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:51:53.543962
+rtl_power_fftw -f 223000000.0:225000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/143 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:51:59.398909
+rtl_power_fftw -f 224000000.0:226000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/144 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:52:05.242830
+rtl_power_fftw -f 225000000.0:227000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/145 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:52:11.088186
+rtl_power_fftw -f 226000000.0:228000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/146 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:52:16.943216
+rtl_power_fftw -f 227000000.0:229000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/147 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:52:22.789365
+rtl_power_fftw -f 228000000.0:230000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/148 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:52:28.642628
+rtl_power_fftw -f 229000000.0:231000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/149 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:52:34.493919
+rtl_power_fftw -f 230000000.0:232000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/150 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:52:40.363473
+rtl_power_fftw -f 231000000.0:233000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/151 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:52:46.228886
+rtl_power_fftw -f 232000000.0:234000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/152 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:52:52.089299
+rtl_power_fftw -f 233000000.0:235000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/153 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:52:57.948542
+rtl_power_fftw -f 234000000.0:236000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/154 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:53:03.806901
+rtl_power_fftw -f 235000000.0:237000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/155 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:53:09.655931
+rtl_power_fftw -f 236000000.0:238000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/156 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:53:15.509283
+rtl_power_fftw -f 237000000.0:239000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/157 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:53:21.363654
+rtl_power_fftw -f 238000000.0:240000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/158 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:53:27.234490
+rtl_power_fftw -f 239000000.0:241000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/159 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:53:33.087065
+rtl_power_fftw -f 240000000.0:242000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/160 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:53:38.943237
+rtl_power_fftw -f 241000000.0:243000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/161 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:53:44.799435
+rtl_power_fftw -f 242000000.0:244000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/162 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:53:50.666751
+rtl_power_fftw -f 243000000.0:245000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/163 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:53:56.521341
+rtl_power_fftw -f 244000000.0:246000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/164 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:54:02.382461
+rtl_power_fftw -f 245000000.0:247000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/165 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:54:08.241021
+rtl_power_fftw -f 246000000.0:248000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/166 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:54:14.099647
+rtl_power_fftw -f 247000000.0:249000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/167 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:54:19.949545
+rtl_power_fftw -f 248000000.0:250000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/168 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:54:25.804179
+rtl_power_fftw -f 249000000.0:251000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/169 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:54:31.667232
+rtl_power_fftw -f 250000000.0:252000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/170 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:54:37.528915
+rtl_power_fftw -f 251000000.0:253000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/171 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:54:43.385791
+rtl_power_fftw -f 252000000.0:254000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/172 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:54:49.246348
+rtl_power_fftw -f 253000000.0:255000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/173 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:54:55.094525
+rtl_power_fftw -f 254000000.0:256000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/174 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:55:00.945771
+rtl_power_fftw -f 255000000.0:257000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/175 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:55:06.814185
+rtl_power_fftw -f 256000000.0:258000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/176 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:55:12.672128
+rtl_power_fftw -f 257000000.0:259000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/177 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:55:18.526881
+rtl_power_fftw -f 258000000.0:260000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/178 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:55:24.378676
+rtl_power_fftw -f 259000000.0:261000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/179 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:55:30.236584
+rtl_power_fftw -f 260000000.0:262000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/180 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:55:36.094493
+rtl_power_fftw -f 261000000.0:263000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/181 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:55:41.951649
+rtl_power_fftw -f 262000000.0:264000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/182 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:55:47.807234
+rtl_power_fftw -f 263000000.0:265000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/183 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:55:53.667815
+rtl_power_fftw -f 264000000.0:266000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/184 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:55:59.538134
+rtl_power_fftw -f 265000000.0:267000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/185 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:56:05.391764
+rtl_power_fftw -f 266000000.0:268000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/186 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:56:11.248073
+rtl_power_fftw -f 267000000.0:269000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/187 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:56:17.100989
+rtl_power_fftw -f 268000000.0:270000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/188 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:56:22.950746
+rtl_power_fftw -f 269000000.0:271000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/189 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:56:28.794106
+rtl_power_fftw -f 270000000.0:272000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/190 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:56:34.643254
+rtl_power_fftw -f 271000000.0:273000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/191 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:56:40.505632
+rtl_power_fftw -f 272000000.0:274000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/192 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:56:46.365420
+rtl_power_fftw -f 273000000.0:275000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/193 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:56:52.224420
+rtl_power_fftw -f 274000000.0:276000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/194 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:56:58.083662
+rtl_power_fftw -f 275000000.0:277000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/195 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:57:03.939527
+rtl_power_fftw -f 276000000.0:278000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/196 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:57:09.803411
+rtl_power_fftw -f 277000000.0:279000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/197 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:57:15.660217
+rtl_power_fftw -f 278000000.0:280000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/198 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:57:21.514361
+rtl_power_fftw -f 279000000.0:281000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/199 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:57:27.376422
+rtl_power_fftw -f 280000000.0:282000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/200 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:57:33.228392
+rtl_power_fftw -f 281000000.0:283000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/201 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:57:39.092981
+rtl_power_fftw -f 282000000.0:284000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/202 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:57:44.946312
+rtl_power_fftw -f 283000000.0:285000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/203 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:57:50.808732
+rtl_power_fftw -f 284000000.0:286000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/204 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:57:56.671179
+rtl_power_fftw -f 285000000.0:287000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/205 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:58:02.530388
+rtl_power_fftw -f 286000000.0:288000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/206 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:58:08.393270
+rtl_power_fftw -f 287000000.0:289000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/207 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:58:14.250868
+rtl_power_fftw -f 288000000.0:290000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/208 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:58:20.110800
+rtl_power_fftw -f 289000000.0:291000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/209 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:58:25.971047
+rtl_power_fftw -f 290000000.0:292000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/210 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:58:31.829238
+rtl_power_fftw -f 291000000.0:293000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/211 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:58:37.697315
+rtl_power_fftw -f 292000000.0:294000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/212 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:58:43.553860
+rtl_power_fftw -f 293000000.0:295000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/213 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:58:49.414072
+rtl_power_fftw -f 294000000.0:296000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/214 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:58:55.266887
+rtl_power_fftw -f 295000000.0:297000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/215 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:59:01.130202
+rtl_power_fftw -f 296000000.0:298000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/216 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:59:06.994467
+rtl_power_fftw -f 297000000.0:299000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/217 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:59:12.858539
+rtl_power_fftw -f 298000000.0:300000000.0 -l -e 5 -t 5.0 -m ./NinthCloud/data/218 -g 4 -d 0
+Acq Starting 
+Starting Acquisition at 2019-09-06 17:59:18.717000
+Stopping Acquisation
+Acquisation Completed at 2019-09-06 17:59:36.626135

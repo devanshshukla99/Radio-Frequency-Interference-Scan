@@ -1,0 +1,273 @@
+Found Rafael Micro R820T tuner
+Scan session duration: 5 seconds
+Available gains (in 1/10th of dB): 0, 9, 14, 27, 37, 77, 87, 125, 144, 157, 166, 197, 207, 229, 254, 280, 297, 328, 338, 364, 372, 386, 402, 421, 434, 439, 445, 480, 496
+Selected nearest available gain: 0 (0 dB)
+Exact sample rate is: 2000000.052982 Hz
+Actual sample rate: 2000000 Hz
+Number of bins: 512
+Total number of (complex) samples to collect: 200192
+Buffer length: 409600
+Number of averaged spectra: 391
+Estimated time of measurements: 0.100096 seconds
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:54 UTC
+Acquisition done at 2019-09-02 03:09:54 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 1 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:54 UTC
+Acquisition done at 2019-09-02 03:09:55 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 2 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:55 UTC
+Acquisition done at 2019-09-02 03:09:55 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 3 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:55 UTC
+Acquisition done at 2019-09-02 03:09:55 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 4 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:55 UTC
+Acquisition done at 2019-09-02 03:09:55 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 5 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:55 UTC
+Acquisition done at 2019-09-02 03:09:55 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 6 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:55 UTC
+Acquisition done at 2019-09-02 03:09:55 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 7 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:55 UTC
+Acquisition done at 2019-09-02 03:09:56 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 8 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:56 UTC
+Acquisition done at 2019-09-02 03:09:56 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 9 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:56 UTC
+Acquisition done at 2019-09-02 03:09:56 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 10 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:56 UTC
+Acquisition done at 2019-09-02 03:09:56 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 11 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:56 UTC
+Acquisition done at 2019-09-02 03:09:56 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 12 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:56 UTC
+Acquisition done at 2019-09-02 03:09:56 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 13 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:56 UTC
+Acquisition done at 2019-09-02 03:09:57 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 14 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:57 UTC
+Acquisition done at 2019-09-02 03:09:57 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 15 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:57 UTC
+Acquisition done at 2019-09-02 03:09:57 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 16 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:57 UTC
+Acquisition done at 2019-09-02 03:09:57 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 17 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:57 UTC
+Acquisition done at 2019-09-02 03:09:57 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 18 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:57 UTC
+Acquisition done at 2019-09-02 03:09:57 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 19 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:58 UTC
+Acquisition done at 2019-09-02 03:09:58 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 20 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:58 UTC
+Acquisition done at 2019-09-02 03:09:58 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 21 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:58 UTC
+Acquisition done at 2019-09-02 03:09:58 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 22 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:58 UTC
+Acquisition done at 2019-09-02 03:09:58 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 23 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:58 UTC
+Acquisition done at 2019-09-02 03:09:58 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 24 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:58 UTC
+Acquisition done at 2019-09-02 03:09:58 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 25 
+Tuning to 207000000 Hz (try 1)
+Device tuned to: 207000000 Hz
+Acquisition started at 2019-09-02 03:09:59 UTC
+Acquisition done at 2019-09-02 03:09:59 UTC
+Actual number of (complex) samples collected: 200192
+Actual number of device readouts: 1
+Number of successful readouts: 1
+Actual number of averaged spectra: 391
+Effective integration time: 0.100096 seconds
+Buffer queue histogram: 0 0 0 0 0 26 
+Session duration elapsed.
+
