@@ -7,6 +7,7 @@ Authors
 
 Devansh Shukla, Aditi Kaushik and Prof. Kamlesh N Pathak
 
+contact at: devanshshukla99_
 
 Observations
 ------------
@@ -98,3 +99,4 @@ Data acquired using SAS_ which internally uses rtl-power-fftw_.
 
 .. _SAS: https://github.com/devanshshukla99/SAS
 .. _rtl-power-fftw: https://github.com/AD-Vega/rtl-power-fftw
+.. _devanshshukla99: mailto:devanshshukla99@outlook.com
