@@ -1,9 +1,0 @@
-512 # frequency bins (columns)
-1 # scans (rows)
-165000000 # startFreq (Hz)
-166996093 # endFreq (Hz)
-3906 # stepFreq (Hz)
-10.0001 # effective integration time secs
-10 # avgScanDur (sec)
-2019-08-30 12:45:31 UTC # firstAcqTimestamp UTC
-2019-08-30 12:45:41 UTC # lastAcqTimestamp UTC
