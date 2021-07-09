@@ -2,6 +2,11 @@
 Radio-Frequency-Interference Scan at APD, SVNIT
 ===============================================
 
+Authors
+-------
+
+Devansh Shukla, Aditi Kaushik and Prof. Kamlesh N Pathak
+
 
 Observations
 ------------
@@ -72,6 +77,7 @@ Due to the scaling of the graph, the noise is not particularly visible, but when
     :alt: Peak near Noise floor.
 
 Then the distinction between the actual RFI and the Noise Floor becomes challenging to make, here we can make use of our Noise Floor data, after removing NF, the obtained spectrum looks like:
+
 The absolute value of power is of less importance than the relative power for us here.
 
 .. image:: assets/34_nf.png
