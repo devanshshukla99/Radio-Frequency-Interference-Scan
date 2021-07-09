@@ -2,6 +2,7 @@
 Radio-Frequency-Interference Scan at APD, SVNIT
 ===============================================
 
+
 Observations
 ------------
 
@@ -34,6 +35,52 @@ Observations
 +-------------------------+--------------+--------------+
 | Thirteenth Clue (ThC)   | 07-09-2019   | 06:26        |
 +-------------------------+--------------+--------------+
+
+
+Methodology
+-----------
+
+The run was conducted from 80 MHz to 300 MHz with 2 MHz Bandwidth and 1 MHz overlap, at Applied Physics Department, SVNIT, Surat.
+
+So, the idea was to remove the initial noise floor of the SDR(Johnson's Noise) from the data to obtain a clean spectrum of RFIs, of-course due to limited noise data and considering the variability of environmental factors, the noise floor captured had inherent flaws, but since our objective was to obtain the radio frequency interference with sizeable power the flaws, it did not make much sense to rectify, as an artifact to the flaws the spectrum sometimes dips slightly below 0(into the -ve region) and should be disregarded.
+
+The Captured Noise Floor of the SDR:
+
+.. image:: assets/fifthheight_1.png
+    :width: 400
+    :alt: Noise floor data for ``Fifth Height`` ``81-83 MHz``
+
+The ``X-Axis`` denotes ``Frequency channels`` and ``Y-Axis`` denotes ``Relative Power(Linear)``.
+
+SAS supports both ``linear`` and ``logarithmic`` acquisation.
+
+The data after removal of noise looks like, example from ``First Light``:
+
+.. image:: assets/firstlight_1.png
+    :width: 400
+    :alt: observation ``First light`` ``81-83 MHz``
+
+
+    
+Due to the scaling of the graph, the noise is not particularly visible, but when we look at something in which the peak is only slightly higher than the noise floor like:
+
+.. image:: assets/peak_near_NF.png
+    :width: 400
+    :alt: Peak near Noise floor.
+
+Then the distinction between the actual RFI and the Noise Floor becomes difficult to make, here we can make use of our Noise Floor data, after removing NF the obtained spectrum look like:
+
+.. image:: assets/34_nf.png
+    :width: 400
+    :alt: Peak near Noise floor.
+
+The absolute value of power is of less importance than the relative power for us here.
+
+And, finally on using the ``peak finder`` program, the result obtained are:
+
+.. image:: assets/34_peak.png
+    :width: 400
+    :alt: Peak near Noise floor.
 
 Credits
 -------
